@@ -1,0 +1,12 @@
+requests
+pandas
+numpy
+matplotlib
+# figer l'environnement : pip freeze > requirements.txt
+# réactiver l'environnement à chaque connexion : 
+# cd your path
+# source venv/bin/activate
+
+# ensuite : 
+# pip install ipykernel
+
